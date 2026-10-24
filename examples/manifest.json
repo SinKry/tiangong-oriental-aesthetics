@@ -1,0 +1,207 @@
+{
+  "release_tag": "examples-v1",
+  "images": [
+    {
+      "original_filename": "图片节点 13.png",
+      "path": "images/phoenix-gate.png",
+      "bytes": 1803043,
+      "sha256": "cde48a9ac733dd8b948703f86329e416af2b75d18b206d96b22cefde78b6ed01",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1456,
+            "height": 816
+          }
+        ],
+        "format": {}
+      }
+    },
+    {
+      "original_filename": "图片节点 15.png",
+      "path": "images/phoenix-palace-wall.png",
+      "bytes": 1912314,
+      "sha256": "da10c403c950df3ded3666b305febb59a0c2dd1f4e41c75f38b5dbd1f0f32954",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1456,
+            "height": 816
+          }
+        ],
+        "format": {}
+      }
+    }
+  ],
+  "original_videos": [
+    {
+      "original_filename": "智能剪辑 1 成片.mp4",
+      "asset": "edited-showcase.mp4",
+      "bytes": 13138394,
+      "sha256": "5c1a11928817d6d0a308110cbc9dbc3f66a15bbe276980655a3b3e7de9c919a2",
+      "url": "https://github.com/SinKry/tiangong-oriental-aesthetics/releases/download/untagged-080cc2737af37cb10dcf/edited-showcase.mp4",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "13.875000"
+        }
+      }
+    },
+    {
+      "original_filename": "天宫1.mp4",
+      "asset": "tiangong-01-original.mp4",
+      "bytes": 29222476,
+      "sha256": "a6f7c4bc9884d7d15acc5d12d1d8035ca704ba0968700115b94b56fa8efc523c",
+      "url": "https://github.com/SinKry/tiangong-oriental-aesthetics/releases/download/untagged-080cc2737af37cb10dcf/tiangong-01-original.mp4",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 2560,
+            "height": 1440
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "12.064000"
+        }
+      }
+    },
+    {
+      "original_filename": "天宫2.mp4",
+      "asset": "tiangong-02-original.mp4",
+      "bytes": 6264083,
+      "sha256": "826a7a943015abdffdead76278498c31fdaa56c71e63dd109ff0d8d45da8a485",
+      "url": "https://github.com/SinKry/tiangong-oriental-aesthetics/releases/download/untagged-080cc2737af37cb10dcf/tiangong-02-original.mp4",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 2560,
+            "height": 1440
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "5.056000"
+        }
+      }
+    }
+  ],
+  "compatible_videos": [
+    {
+      "size": 12284001,
+      "sha256": "da8e024c06c8524b167c847322111ac8407fcfe912561e857ed182fc4bdff31c",
+      "original_name": "天宫1.mp4 浏览器预览版",
+      "name": "tiangong-01-web.mp4",
+      "url": "https://github.com/SinKry/tiangong-oriental-aesthetics/releases/download/untagged-080cc2737af37cb10dcf/tiangong-01-web.mp4"
+    },
+    {
+      "size": 2204941,
+      "sha256": "56ef5bbd4a46f0417769b15edc0369154aa730760b71bf6514c67e68e7b620f1",
+      "original_name": "天宫2.mp4 浏览器预览版",
+      "name": "tiangong-02-web.mp4",
+      "url": "https://github.com/SinKry/tiangong-oriental-aesthetics/releases/download/untagged-080cc2737af37cb10dcf/tiangong-02-web.mp4"
+    }
+  ],
+  "gif_previews": [
+    {
+      "path": "previews/edited-showcase.gif",
+      "bytes": 1604804,
+      "duration_excerpt_seconds": 4,
+      "width": 480,
+      "frame_rate": 6,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "gif",
+            "codec_type": "video",
+            "width": 480,
+            "height": 270
+          }
+        ],
+        "format": {
+          "duration": "4.000000"
+        }
+      }
+    },
+    {
+      "path": "previews/tiangong-01.gif",
+      "bytes": 1423362,
+      "duration_excerpt_seconds": 4,
+      "width": 480,
+      "frame_rate": 6,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "gif",
+            "codec_type": "video",
+            "width": 480,
+            "height": 270
+          }
+        ],
+        "format": {
+          "duration": "4.000000"
+        }
+      }
+    },
+    {
+      "path": "previews/tiangong-02.gif",
+      "bytes": 1244498,
+      "duration_excerpt_seconds": 4,
+      "width": 480,
+      "frame_rate": 6,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "gif",
+            "codec_type": "video",
+            "width": 480,
+            "height": 270
+          }
+        ],
+        "format": {
+          "duration": "4.000000"
+        }
+      }
+    }
+  ]
+}

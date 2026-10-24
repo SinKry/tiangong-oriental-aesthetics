@@ -4,6 +4,30 @@
 
 这是完整原版技能，包含独立参考指南与视频提帧助手。
 
+## 案例展示
+
+### 图片案例
+
+**凤凰天门 · 云海御道**
+
+![凤凰天门与云海御道](examples/images/phoenix-gate.png)
+
+**凤凰巨壁 · 云上宫阙**
+
+![凤凰巨壁、悬空平台与云海瀑布](examples/images/phoenix-palace-wall.png)
+
+### 视频案例
+
+以下为视频截取的轻量动态预览；完整画质和音轨请通过对应链接查看或下载。
+
+| 第一人称穿越成片 | 天宫 1 | 天宫 2 |
+|---|---|---|
+| [![第一人称穿越成片动态预览](examples/previews/edited-showcase.gif)](https://github.com/SinKry/tiangong-oriental-aesthetics/releases/download/examples-v1/edited-showcase.mp4) | [![天宫1动态预览](examples/previews/tiangong-01.gif)](https://github.com/SinKry/tiangong-oriental-aesthetics/releases/download/examples-v1/tiangong-01-web.mp4) | [![天宫2动态预览](examples/previews/tiangong-02.gif)](https://github.com/SinKry/tiangong-oriental-aesthetics/releases/download/examples-v1/tiangong-02-web.mp4) |
+| 13.875 秒 · 1920 × 1080 | 12.064 秒 · 原片 2560 × 1440 | 5.056 秒 · 原片 2560 × 1440 |
+| [原视频](https://github.com/SinKry/tiangong-oriental-aesthetics/releases/download/examples-v1/edited-showcase.mp4) | [兼容预览版](https://github.com/SinKry/tiangong-oriental-aesthetics/releases/download/examples-v1/tiangong-01-web.mp4) · [原视频](https://github.com/SinKry/tiangong-oriental-aesthetics/releases/download/examples-v1/tiangong-01-original.mp4) | [兼容预览版](https://github.com/SinKry/tiangong-oriental-aesthetics/releases/download/examples-v1/tiangong-02-web.mp4) · [原视频](https://github.com/SinKry/tiangong-oriental-aesthetics/releases/download/examples-v1/tiangong-02-original.mp4) |
+
+[查看全部案例与素材说明](examples/README.md) · [下载视频发布附件](https://github.com/SinKry/tiangong-oriental-aesthetics/releases/tag/examples-v1)
+
 ## 能做什么
 
 - **输入主题词**：默认提供5组差异化生图提示词，并配套视频建议和视频提示词。
