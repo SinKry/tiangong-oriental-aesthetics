@@ -1,0 +1,4 @@
+interface:
+  display_name: "天宫东方美学"
+  short_description: "从主题、图片与视频创作或倒推东方史诗生图及视频提示词"
+  default_prompt: "请使用 $tiangong-oriental-aesthetics，根据我提供的主题、图片或视频，创作或倒推具有东方美学、宏大史诗感与视觉张力的生图和生视频提示词。"
